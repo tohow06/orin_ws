@@ -1,0 +1,12 @@
+[submodule "src/vision_opencv"]
+	path = src/vision_opencv
+	url = https://github.com/ros-perception/vision_opencv.git
+[submodule "src/orbslam3_ros2"]
+	path = src/orbslam3_ros2
+	url = git@github.com:tohow06/ORB_SLAM3_ROS2.git
+[submodule "src/zed-ros2-wrapper"]
+	path = src/zed-ros2-wrapper
+	url = git@github.com:tohow06/zed-ros2-wrapper.git
+[submodule "src/zed-ros2-examples"]
+	path = src/zed-ros2-examples
+	url = https://github.com/stereolabs/zed-ros2-examples.git
